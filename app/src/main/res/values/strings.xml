@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hotel Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Firstname">First name <font color='#FF0000'>*</font></string>
+    <string name="LastName">Last name <font color='#FF0000'>*</font></string>
+    <string name="Email">E-mail <font color='#FF0000'>*</font></string>
+    <string name="PhoneNumber">Phone number <font color='#FF0000'>*</font></string>
+    <string name="UserName">User Name <font color='#FF0000'>*</font></string>
+    <string name="Password">Password <font color='#FF0000'>*</font></string>
+</resources>
