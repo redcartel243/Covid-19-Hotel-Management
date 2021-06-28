@@ -17,45 +17,45 @@ Managing a hotel during the covid-19 pandemic can be a difficult task, reason be
 
 
 # 1. Main functions (Layout Design)
-https://github.com/redcartel243/Covid-19-Hotel-Management/blob/main/Images/1.JPG
+![1](https://user-images.githubusercontent.com/61031416/123671274-a91b2f80-d870-11eb-9cb9-7753f2b7c7e8.JPG)
+![2](https://user-images.githubusercontent.com/61031416/123671280-aa4c5c80-d870-11eb-9548-c6363d059ef4.JPG)
+![3](https://user-images.githubusercontent.com/61031416/123671282-aae4f300-d870-11eb-91b3-06f239955688.JPG)
+![4](https://user-images.githubusercontent.com/61031416/123671287-ac162000-d870-11eb-8428-5ce6a7593930.JPG)
 
-## 4Main functions(layout design)
+## 2.Main functions(layout design)
 
 Diagram 1
 
-![](RackMultipart20210628-4-6hg6t_html_a8f5ca3f044e4d43.jpg)
+![5](https://user-images.githubusercontent.com/61031416/123671289-acaeb680-d870-11eb-9a03-c75bc0e912fb.JPG)
 
 Diagram 2
 
-![](RackMultipart20210628-4-6hg6t_html_3b5b5151484bacc9.jpg)
+![6](https://user-images.githubusercontent.com/61031416/123671291-ad474d00-d870-11eb-9fa1-a1fe0fb93439.JPG)
 
 Diagram 3
-
-![](RackMultipart20210628-4-6hg6t_html_54e8b4d306c2bdbd.jpg)
+![7](https://user-images.githubusercontent.com/61031416/123671293-addfe380-d870-11eb-97dc-91ea71bc6c1f.JPG)
 
 Diagram 4
-
-![](RackMultipart20210628-4-6hg6t_html_220cdbf8b5f0a4a6.jpg)
+![8](https://user-images.githubusercontent.com/61031416/123671296-addfe380-d870-11eb-9633-3b51cc4564e6.JPG)
 
 Diagram 5
 
-![](RackMultipart20210628-4-6hg6t_html_768d311786a9b5ff.jpg)
+![Picture1](https://user-images.githubusercontent.com/61031416/123671299-ae787a00-d870-11eb-8f90-99e7015a8c2a.png)
 
 Diagram 6
 
-![](RackMultipart20210628-4-6hg6t_html_a1509ab8550491f3.jpg)
+![Picture2](https://user-images.githubusercontent.com/61031416/123671327-b6d0b500-d870-11eb-9613-9dfb259304cf.png)
 
 Diagram 7
 
-![](RackMultipart20210628-4-6hg6t_html_8cac42a08d8e5e77.jpg)
+![Picture3](https://user-images.githubusercontent.com/61031416/123671348-be905980-d870-11eb-8d9f-be3294bdac5a.png)
 
 Diagram 8
 
-![](RackMultipart20210628-4-6hg6t_html_517b8cf77373b9d2.jpg)
+![Picture4](https://user-images.githubusercontent.com/61031416/123671173-90ab1500-d870-11eb-8091-8c277615e347.png)
 
 Diagram 9
-
-![](RackMultipart20210628-4-6hg6t_html_8ff7e46ba66ce6c.jpg)
+![Picture5](https://user-images.githubusercontent.com/61031416/123671219-9c96d700-d870-11eb-9569-210a43083e2a.png)
 
 1. Compulsory functions
 
@@ -73,27 +73,18 @@ The main purpose of this app is to allow the user to book or reserve a hotel roo
 
 Database handler:
 
-Since our database app is not hosted on a cloud host, we created a link between the host machine and a virtual machine and used Maria DB to create the database on the virtual machine (sql)
-
-The Java Database Connectivity (JDBC) is an application programming interface (API) for the programming language Java, which defines how a client may access a database. It is a Java-based data access technology used for Java database connectivity. It is part of the Java Standard Edition platform, from Oracle Corporation.
-
-Here is an insight of the Database Handler:
-
-![](RackMultipart20210628-4-6hg6t_html_49de8a5fd0699cdc.png)
-
-![](RackMultipart20210628-4-6hg6t_html_b4a9d5474f5d78a4.png)
 
 We made a java class that is able to handle any kind of transactions between the app and the database
 
 An example of the class DatabaseHandlerOnline:
 
-![](RackMultipart20210628-4-6hg6t_html_f0751e70fc43a58.png)
+![Picture8](https://user-images.githubusercontent.com/61031416/123671255-a587a880-d870-11eb-94f6-97d977f08cd2.png)
 
 Below is our database:
+![Picture9](https://user-images.githubusercontent.com/61031416/123671266-a6b8d580-d870-11eb-8e52-3b4606ceb03d.png)
 
-![](RackMultipart20210628-4-6hg6t_html_b3f640ad2f8d9683.png)
 
 Here&#39;s our php API
 
-![](RackMultipart20210628-4-6hg6t_html_cdac6227c176e719.png)
+![Picture10](https://user-images.githubusercontent.com/61031416/123671271-a8829900-d870-11eb-8b13-01a73d9dabd3.png)
 
