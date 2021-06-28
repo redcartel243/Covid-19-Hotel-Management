@@ -17,7 +17,7 @@ Managing a hotel during the covid-19 pandemic can be a difficult task, reason be
 
 
 # 1. Main functions (Layout Design)
-
+![alt text](https://github.com/redcartel243/Covid-19-Hotel-Management/blob/main/Images/1.JPG?raw=true)
 
 ## 4Main functions(layout design)
 
