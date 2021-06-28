@@ -6,17 +6,6 @@
 
 2019 presented many challenges but what stood out was the Coronavirus better known as covid-19. The covid-19 pandemic made everyone rethink their approach to daily life in particular how they started running their companies and businesses. This pandemic is affecting many areas including the economy of countries thus governments hand in hand with multiple companies came up with the appropriate solutions. Businesses such as hotels came up with different solutions depending on country&#39;s regulations issued due to the covid-19 pandemic. Managing institutions such as hotels is of high importance according to different countries in order to limit the spread of the virus.
 
-1.
-  1.
-
-1.
-  1.
-
-###
-
-
-###
-
 
 ### 3. Purpose and framework
 
@@ -27,48 +16,7 @@ Managing a hotel during the covid-19 pandemic can be a difficult task, reason be
 ##
 
 
-# 3Main functions (Layout Design)
-
-The main pages, main functions and its related technologies are listed in the following table. The layout design diagrams are listed in **Layout Design** and its corresponding number is also listed in the following table.
-
-Table 1 Main pages, functions and related technologies
-
-| Main Page | Main Function | Related Technology | Related Diagram |
-| --- | --- | --- | --- |
-| Home Page |
-1. Displays Covid 19 info button
-2. Login button, registration button and image button that shows contact menu.
- | Activity Life Cycle;Activity Jump;Layout Design;Control (ImageView);View Pager auto slideImage Button and Menu | Diagram 1 |
-| Register Page |
-1. Allows the user to input their info to register to the app
-2. Displays Confirmation Button
- | Data Transfer;Activity Life Cycle;EditText;CheckBox;
- | Diagram 2 |
-| Login Page |
-1. Allows the user to log into the app
-2. Displays confirmation button
-3. Displays Login button
- | Activity Life Cycle;Activity Jump;Layout Design;Control (Button,TextView); | Diagram 3 |
-| Room Booking Page |
-1. Image button displays a logout function
-2. Two drop down menus
-3. Displays location
-4. Shows rooms available for booking on a list view
- | GPS Location;Adapter (Spinner);Adapter (List View);Activity Life Cycle;Activity Jump;Layout Design;Control (TextView,ImageView) | Diagram 4 |
-| Confirmation Page | (12) Allows the user to confirm the room they are booking(13) Displays Confirm and Cancel Buttons | Fragment displayed on a ViewPager | Diagram 5 |
-
-|
-Covid 19 infoMain Page | (14) image button containing different functions that enable the user to navigate through various info that raises covid-19 awareness | Control (TextView,ImageView);Activity Life Cycle;Layout Design;ImageView | Diagram 6 |
-| --- | --- | --- | --- |
-| Symptoms and diagnosis Page | (15) Image button containing different functions that enable the user to navigate through various info that raises covid-19 awareness. And a short video. | Control (TextView,ImageView);Activity Life Cycle;Layout Design;VideoView | Diagram 7 |
-| RepresentationPage | (16)Allows the user to view how covid-19 affects different parts of the body(17) Image view button |
-
-Control (imageView Button);Activity Life Cycle;Activity Jump;PhotoView LibraryLayout Design; | Diagram 8 |
-| Emergency Dialogue | (18) Displays a clickable image that allows the user to make an emergency call(19) Displays an Ok button |
-
-Dialogue FragmentLayout Design;Controls (TextView,ImageView, Button); | Diagram 9 |
-
-##
+# 1. Main functions (Layout Design)
 
 
 ## 4Main functions(layout design)
